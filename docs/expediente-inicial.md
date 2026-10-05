@@ -1,10 +1,15 @@
 Nombre provisional del proyecto: Prótesis robotica.
 
+
 Integrantes del equipo: 
+
 • López Ortiz Emiliano.
+
 • Juárez Maya Sophia.
 
+
 Oportunidad seleccionada: Prótesis robótica. 
+
 
 Situación, proceso, necesidad o problemática identificada: el ENADID reporto 8.9 millones de personas con discapacitadas de las cuales 17.2% declaro dificultad para mover o usar brazos o manos además el precio que podrían pagar se ve limitado, según el ENIGH el ingreso mensual promedio es de $6,927. En ese contexto, es complicada la adquisición de una prótesis y mas considerando los gastos de plataformas de propietarios.
 
