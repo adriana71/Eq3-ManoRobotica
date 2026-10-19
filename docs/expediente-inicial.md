@@ -26,3 +26,13 @@ Personas, grupos, organizaciones, procesos o sectores que podrían beneficiarse:
 |Limitaciones o dificultades identificadas	|
 |Información técnica necesaria	|	
 |Otros aspectos relevantes |
+
+<div align="center">
+  <h2> Preguntas para comprender mejor el proyecto:
+</div>
+
+
+1. **Sobre los "Modelos de Mundo":** En los documentos se habla mucho de "modelos de mundo" y "representaciones latentes". *¿Qué significa esto en términos sencillos y en qué se diferencia de una inteligencia artificial tradicional?*
+2. **Interferencias en las señales:** Entiendo que usarán señales electromiográficas (EMG) de los músculos. En la práctica, *¿qué pasa si el sensor se mueve, o si la persona suda? ¿La IA se confunde o sabe cómo corregirlo?*
+3. **Aprendizaje y cinemática:** Se menciona el "aprendizaje por refuerzo". *¿Esto quiere decir que la prótesis aprende a moverse sola a base de prueba y error, o nosotros tenemos que programarle cada movimiento?*
+4. **Conocimientos previos:** *¿Qué conocimientos de matemáticas, física o programación requiero tener dominados desde ahorita para no atrasar al equipo?*
